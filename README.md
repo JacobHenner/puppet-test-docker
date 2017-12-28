@@ -10,6 +10,11 @@ This Docker image is useful for testing Puppet code, especially as the base imag
 5. puppetlabs_spec_helper 
 6. jsonlint 
 7. yaml-lint
+8. metadata-json-lint
+9. semantic_puppet
+10. rubocop
+11. rubocop-rspec
+12. pdk
 
 ## Using this image
 To pull this image: `docker pull jacobhenner/puppet-test`
