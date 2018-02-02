@@ -15,6 +15,8 @@ This Docker image is useful for testing Puppet code, especially as the base imag
 10. rubocop
 11. rubocop-rspec
 12. pdk
+13. puppet-strings
+14. rgen (for puppet-strings)
 
 ## Using this image
 To pull this image: `docker pull jacobhenner/puppet-test`
